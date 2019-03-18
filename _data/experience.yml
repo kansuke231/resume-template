@@ -1,19 +1,16 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Lingk.io
+  position: Software Engineer
+  duration: Jan, 2017 &mdash; Nov, 2018
+  summary: <ul class="resume-item-list"><li>Implemented an algorithm for auto-generating Spark SQL statements that are used in Lingk's data transformer engine.</li><li>Refactored a large portion of existing Golang code for better readability, design and testings.</li><li>Implemented and deployed a Scala-based micro-service for validating API credentials for aforementioned API connectors.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Apigee
+  position: Software Engineering Intern
+  duration:  Jun, 2016 &mdash; Aug, 2016
+  summary: Working on a proto-type development for IoT data aggregator and analyzer using Apache Spark and Node.js.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: University of Colorado, Boulder
+  position: Student Web Developer
+  duration:   May, 2015  &mdash; Jan, 2016
+  summary: Worked on the development of a front-end app that helped users to edit and submit computing jobs to University's super computer clusters.
